@@ -8,8 +8,15 @@ These changes can be seen below:
 
 Including 9th graders scores-
 ![District_summary_all_students](https://user-images.githubusercontent.com/41974323/141696995-e17cad76-bcec-4ccb-ae66-f1fc3957c699.png)
+
 Excluding 9th graders scores-
 ![District_summary_excluding_9th_graders](https://user-images.githubusercontent.com/41974323/141697000-b028cbd2-3665-47d8-88df-8126c90b3de4.png)
 
 ### School Summary
-Similarly to the district, there is only a slight change to the average math and reading scores when we look at the school summary. After excluding the 9th graders the average scores go from 83.418349 to 83.350937 in math and 83.848930 to 83.896082 in reading. Where we really see a big change in our data is when looking at the percent of passing students in each category. Reading scores decrease from 97.31 to 69.66, Math scores decrease from 93.27 to 66.91.
+Similarly to the district, there is only a slight change to the average math and reading scores when we look at the school summary. After excluding the 9th graders the average scores go from 83.418349 to 83.350937 in math and 83.848930 to 83.896082 in reading. Where we really see a big change in our data is when looking at the percent of passing students in each category. Reading scores decrease from 97.31 to 69.66, Math scores decrease from 93.27 to 66.91. We see no changes in the rank of the school or what bin the school is in.
+These changes can be seen below:
+
+Including 9th graders scores-
+![School_summary_all_students](https://user-images.githubusercontent.com/41974323/141697386-19a503eb-40bc-458d-9417-cc1565bc42f7.PNG)
+Excluding 9th graders scores-
+![School_summary_excluding_9th_graders](https://user-images.githubusercontent.com/41974323/141697399-549a48a6-23de-4f64-9892-55ca1dd3f238.PNG)
